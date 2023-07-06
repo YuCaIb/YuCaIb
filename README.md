@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Tensor and Transformers and Software Engineering essentials, In the feature I want to convert myself in to AI Engineer
 - 🌱 still learing Software Engineering essentials but lately I'm busy with ML and Passionate about AI and studying them hard.
 
-- 📫 How to reach me y.canfee@gmail.com or @yucaib
+- 📫 How to reach me y.canfee@gmail.com or @yucaib instagram
 
 <!---
 YuCaIb/YuCaIb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
