@@ -1,4 +1,4 @@
-- 👋 Hi everyone, I’m @YuCaIb, right now I'm doing my intern at <a href="#" class="button">[Alugha](https://alugha.com/)</a 
+- 👋 Hi everyone, I’m @YuCaIb, ~~right now I'm doing my intern at <a href="#" class="button">[Alugha](https://alugha.com/)~~</a 
 - 👀 I’m interested in many things but to be a having a profession in a field as my intrest ; Learning ML and doing studies to be a Data Scientiest.
 - 🌱 Currently I learned ML basis and related libraries, audio processing, image processing and regression's... 
 - 🌱 Lately I'm in to building a Turkish Sign Language detector you can reach repo from <a href="#" class="button">[here](https://github.com/YuCaIb/Turkish_Sign_Language_detect)</a 
